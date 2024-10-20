@@ -25,6 +25,8 @@ facilitando conversiones precisas y rápidas.
 - Un entorno de desarrollo como IntelliJ IDEA o cualquier editor de texto que soporte Java.
  # API usada para este proyecto:
  ![Captura de pantalla (1)](https://github.com/user-attachments/assets/f3d2bfe0-f721-4225-8daa-139f31e28622)
+ # Usando postman:
+ ![Captura de pantalla (7)](https://github.com/user-attachments/assets/7a829ddf-d2e4-4fae-92b0-cc6e193e1641)
  # Eligiendo la opcion:
  ![Captura de pantalla (4)](https://github.com/user-attachments/assets/5b0e777b-c83c-4b22-93ae-a5086f1309d3)
  # Resultado de la cosulta 
